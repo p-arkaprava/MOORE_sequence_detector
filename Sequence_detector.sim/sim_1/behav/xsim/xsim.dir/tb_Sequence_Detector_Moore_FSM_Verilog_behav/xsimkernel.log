@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_Sequence_Detector_Moore_FSM_Verilog_behav/xsimk.exe -simmode gui -wdb tb_Sequence_Detector_Moore_FSM_Verilog_behav.wdb -simrunnum 0 -socket 54751
+Design successfully loaded
+Design Loading Memory Usage: 29620 KB (Peak: 29620 KB)
+Design Loading CPU Usage: 561 ms
