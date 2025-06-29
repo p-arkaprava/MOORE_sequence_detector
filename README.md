@@ -90,7 +90,12 @@ This project is a basic yet powerful introduction to FSM design in Verilog. It d
 ## 👨‍💻 Author
 
 **Arkaprava Paul**  
-This project was created as a part of learning digital design using Verilog and FSMs.
+B.Tech in Electronics and Electrical Engineering  
+Minor in Computer Science and Engineering  
+Indian Institute of Technology, Guwahati  
+📧 imapaul05@gmail.com | p.Arkaprava@iitg.ac.in  
+🔗 [LinkedIn](www.linkedin.com/in/arkaprava-paul-73223a314) 
+This project is created as a part of learning digital design using Verilog and FSMs.
 
 ---
 
